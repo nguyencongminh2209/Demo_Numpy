@@ -195,6 +195,7 @@ if __name__ == "__main__":
     print('Ma tran trong so w = ', w)
     print('Bias = ', bias)
     print("\n")
+    print("\n")
     TEST('picture/HINHCHUNHATTEST.png')
     TEST('picture/HINHBINHHANHTEST.png')
     TEST('picture/HINHKHACLA.png')
